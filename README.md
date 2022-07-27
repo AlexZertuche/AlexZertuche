@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexZertuche 
 - 👀 I’m interested in ... Software Development
-- 🌱 I’m currently learning ... JavaScript, HTML, CSS
+- 🌱 I’m currently learning ... ANGULAR, JavaScript, HTML, CSS
 - 💞️ I’m looking to collaborate on ... Software Development
 - 📫 How to reach me ... IG: alex_zert
 
